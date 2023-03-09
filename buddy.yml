@@ -1,4 +1,4 @@
-- pipeline: "qsnxscjsna"
-  trigger_mode: "ON_EVERY_PUSH"
-  ref_type: "TAG"
-  ref_name: "v932"
+- pipeline: "tetmnvuaef"
+  trigger_mode: "MANUAL"
+  ref_type: "NONE"
+  trigger_condition: "ALWAYS"
